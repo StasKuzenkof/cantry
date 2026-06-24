@@ -1,7 +1,7 @@
 # Cantry — AI Film Studio
 
 Turn a single reference link into a finished cinematic short — script, AI voiceover, per-frame images,
-image-to-video clips, a built-in editor and an AI thumbnail, end to end. Built for faceless YouTube Shorts,
+image-to-video clips, original AI music, a built-in editor and an AI thumbnail, end to end. Built for faceless YouTube Shorts,
 TikTok and Reels. No camera, no on-screen presenter.
 
 **Live:** https://cantry.ai · **Build log:** https://cantry.ai/changelog
@@ -9,7 +9,8 @@ TikTok and Reels. No camera, no on-screen presenter.
 ## What it does
 - Link or topic in → finished vertical short out (one pipeline).
 - Script with a fact/lore check, fast-paced AI voiceover, per-frame cinematic images, image-to-video clips.
-- Built-in editor: timeline, word-by-word captions, music bed, auto-assembly to the voiceover.
+- Built-in editor: timeline, word-by-word captions, an original AI music score, auto-assembly to the voiceover.
+- Original AI music generation (plus visuals) — also used to produce a music channel, not just video.
 - AI thumbnail generator; Ad Studio (multi-shot motion-design ads); SEO studio; community replies.
 
 ## Why it's different
