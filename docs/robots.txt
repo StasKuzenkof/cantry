@@ -1,0 +1,23 @@
+# Cantry articles (GitHub Pages). NOTE: robots.txt is only authoritative at the host root;
+# on a project Pages path this is best-effort. Per-page <meta name="robots"> is the real backstop.
+# Allow the AI search crawlers explicitly (GEO: a blocked search bot = invisible in that engine).
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://staskuzenkof.github.io/cantry/sitemap.xml

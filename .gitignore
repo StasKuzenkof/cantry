@@ -1,0 +1,7 @@
+# Internal docs — must NEVER be published on this PUBLIC showcase repo (white-label)
+CLAUDE.md
+CLAUDE.local.md
+STATE.md
+WORKLOG.md
+.claude/
+.DS_Store
